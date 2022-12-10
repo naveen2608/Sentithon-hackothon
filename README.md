@@ -21,8 +21,4 @@ Table of Contents:
 
 4. Sentiment Analysis:
 
-        4.1 Technique followed to arrive at a sentiment of post
-
-5. Topic Modelling:
-
-        5.1 Technique used for topic modelling
+        4.1 Technique followed to arrive at a sentiment of post.
